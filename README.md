@@ -1,4 +1,4 @@
-<!-- <h3 align="center" style="color: grey;">Hi, I am Tanu Vishwakarma</h3> -->
+ <h3 align="center" style="color: grey;">Hi, I am Tanu Vishwakarma</h3> 
 
 <!-- Animated Header -->
 <div align="center">
