@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Tanush+Vishwakarma;Full+Stack+Developer+%7C+Creative+Coder;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=808080&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+T-A-N-U+Vishwakarma;Full+Stack+Developer+%7C+Creative+Coder;Building+Amazing+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <!-- Wave Animation -->
@@ -43,29 +43,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnuislostq&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnuislostq&layout=compact&langs_count=8&theme=radical"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tnuislostq&theme=radical" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tnuislostq&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</div>
-
-<!-- Animated Footer -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave animation" width="100%">
